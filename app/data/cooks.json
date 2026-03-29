@@ -4,7 +4,7 @@
     "user_id": "user_cook_1",
     "name": "Sunita Tai",
     "kitchen_name": "Sunita Tai's Kitchen",
-    "location": "Koregaon Park, Pune",
+    "location": "Kalamboli",
     "latitude": 18.5362,
     "longitude": 73.894,
     "cuisine_types": [
@@ -94,7 +94,7 @@
     "user_id": "user_cook_2",
     "name": "Priya Didi",
     "kitchen_name": "Priya's South Indian Kitchen",
-    "location": "Viman Nagar, Pune",
+    "location": "Kalamboli",
     "latitude": 18.5679,
     "longitude": 73.9143,
     "cuisine_types": [
@@ -167,7 +167,7 @@
     "user_id": "user_cook_3",
     "name": "Meena Bai",
     "kitchen_name": "Meena's Punjabi Dhaba",
-    "location": "Kothrud, Pune",
+    "location": "Kalamboli",
     "latitude": 18.5074,
     "longitude": 73.8077,
     "cuisine_types": [
