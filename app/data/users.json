@@ -1,0 +1,34 @@
+[
+  {
+    "id": "user_a8c15abc",
+    "name": "string",
+    "phone": "string",
+    "email": "string",
+    "password": "$2b$12$mAAxFV5ib3nKbB4lvvelVOdZZxNrNLyzLM1VkSBJvKl94hUdYIwGG",
+    "role": "string"
+  },
+  {
+    "id": "user_c2a295cb",
+    "name": "radha",
+    "phone": "9987849779",
+    "email": "",
+    "password": "$2b$12$zTkCYeFtQA9oo/aMBDCcr.CmjbfipDdcK4FohY0NIitFfVEz1TMz.",
+    "role": "cook"
+  },
+  {
+    "id": "user_5f05b9e1",
+    "name": "hridaya",
+    "phone": "9987678657",
+    "email": "",
+    "password": "$2b$12$mG1BgFDWasmsdtW1DJRSx.yV8aVtuCdSjZ4/UHefwQzvG5vlPmoQC",
+    "role": "student"
+  },
+  {
+    "id": "user_01d5ab70",
+    "name": "rahul",
+    "phone": "9987654323",
+    "email": "",
+    "password": "$2b$12$evJW5xb/M1J5kKfrLe3C4.qOC6ImUrZE6QY6RZtJFm6UNQBRv.JVC",
+    "role": "delivery"
+  }
+]

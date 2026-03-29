@@ -1,0 +1,38 @@
+[
+  {
+    "id": "review_1",
+    "cook_id": "cook_1",
+    "student_name": "Riya Sharma",
+    "rating": 5,
+    "taste": 5,
+    "hygiene": 5,
+    "quantity": 4,
+    "comment": "Absolutely loved the dal rice! Tastes just like home.",
+    "tags": ["Fresh food", "Good quantity", "Hygienic"],
+    "created_at": "2026-03-20T13:00:00"
+  },
+  {
+    "id": "review_2",
+    "cook_id": "cook_1",
+    "student_name": "Amit Verma",
+    "rating": 5,
+    "taste": 5,
+    "hygiene": 4,
+    "quantity": 5,
+    "comment": "Best homemade food I've had in Pune. Sunita Tai is amazing!",
+    "tags": ["Great taste", "Would order again"],
+    "created_at": "2026-03-22T14:30:00"
+  },
+  {
+    "id": "review_3",
+    "cook_id": "cook_2",
+    "student_name": "Sneha Patil",
+    "rating": 4,
+    "taste": 5,
+    "hygiene": 4,
+    "quantity": 4,
+    "comment": "Idli sambar was fresh and delicious. Will order again!",
+    "tags": ["Fresh food", "On time"],
+    "created_at": "2026-03-25T09:00:00"
+  }
+]

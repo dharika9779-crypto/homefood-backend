@@ -1,0 +1,262 @@
+[
+  {
+    "id": "cook_1",
+    "user_id": "user_cook_1",
+    "name": "Sunita Tai",
+    "kitchen_name": "Sunita Tai's Kitchen",
+    "location": "Koregaon Park, Pune",
+    "latitude": 18.5362,
+    "longitude": 73.894,
+    "cuisine_types": [
+      "Maharashtrian",
+      "Home-style"
+    ],
+    "food_type": "veg",
+    "rating": 4.9,
+    "total_orders": 234,
+    "trust_score": 92,
+    "is_open": true,
+    "delivery_mode": "partner",
+    "price_from": 60,
+    "bio": "Cooking authentic Maharashtrian food for 10+ years. Every meal made with love.",
+    "cooking_since": "2013",
+    "ratings_breakdown": {
+      "taste": 4.9,
+      "hygiene": 4.8,
+      "quantity": 4.7
+    },
+    "menu": [
+      {
+        "id": "item_1",
+        "name": "Dal Rice",
+        "description": "Fresh dal with steamed rice and pickle",
+        "price": 60,
+        "food_type": "veg",
+        "available": true
+      },
+      {
+        "id": "item_2",
+        "name": "Sabji Roti",
+        "description": "Seasonal vegetable curry with 3 rotis",
+        "price": 55,
+        "food_type": "veg",
+        "available": true
+      },
+      {
+        "id": "item_3",
+        "name": "Rajma Chawal",
+        "description": "Classic rajma with basmati rice",
+        "price": 70,
+        "food_type": "veg",
+        "available": true
+      },
+      {
+        "id": "item_4",
+        "name": "Misal Pav",
+        "description": "Spicy sprouted curry with pav",
+        "price": 50,
+        "food_type": "veg",
+        "available": true
+      }
+    ],
+    "plans": [
+      {
+        "id": "plan_1",
+        "name": "Weekly Plan",
+        "meals_per_day": 2,
+        "duration": "weekly",
+        "days": "Mon-Sat",
+        "price": 1200,
+        "original_price": 1500
+      },
+      {
+        "id": "plan_2",
+        "name": "Weekly Plan",
+        "meals_per_day": 3,
+        "duration": "weekly",
+        "days": "Mon-Sat",
+        "price": 1600,
+        "original_price": 2000
+      },
+      {
+        "id": "plan_3",
+        "name": "Monthly Plan",
+        "meals_per_day": 2,
+        "duration": "monthly",
+        "days": "Mon-Sat",
+        "price": 4000,
+        "original_price": 5000
+      }
+    ]
+  },
+  {
+    "id": "cook_2",
+    "user_id": "user_cook_2",
+    "name": "Priya Didi",
+    "kitchen_name": "Priya's South Indian Kitchen",
+    "location": "Viman Nagar, Pune",
+    "latitude": 18.5679,
+    "longitude": 73.9143,
+    "cuisine_types": [
+      "South Indian",
+      "Tamil"
+    ],
+    "food_type": "veg",
+    "rating": 4.7,
+    "total_orders": 189,
+    "trust_score": 85,
+    "is_open": true,
+    "delivery_mode": "self",
+    "price_from": 55,
+    "bio": "Authentic South Indian home food. Idli, Dosa, Sambar made fresh daily.",
+    "cooking_since": "2015",
+    "ratings_breakdown": {
+      "taste": 4.8,
+      "hygiene": 4.6,
+      "quantity": 4.7
+    },
+    "menu": [
+      {
+        "id": "item_5",
+        "name": "Idli Sambar",
+        "description": "4 soft idlis with fresh sambar and chutney",
+        "price": 50,
+        "food_type": "veg",
+        "available": true
+      },
+      {
+        "id": "item_6",
+        "name": "Masala Dosa",
+        "description": "Crispy dosa with potato masala",
+        "price": 60,
+        "food_type": "veg",
+        "available": true
+      },
+      {
+        "id": "item_7",
+        "name": "Curd Rice",
+        "description": "Tempered curd rice with pickle",
+        "price": 55,
+        "food_type": "veg",
+        "available": true
+      }
+    ],
+    "plans": [
+      {
+        "id": "plan_4",
+        "name": "Weekly Plan",
+        "meals_per_day": 2,
+        "duration": "weekly",
+        "days": "Mon-Sat",
+        "price": 1100,
+        "original_price": 1400
+      },
+      {
+        "id": "plan_5",
+        "name": "Monthly Plan",
+        "meals_per_day": 2,
+        "duration": "monthly",
+        "days": "Mon-Sat",
+        "price": 3800,
+        "original_price": 4800
+      }
+    ]
+  },
+  {
+    "id": "cook_3",
+    "user_id": "user_cook_3",
+    "name": "Meena Bai",
+    "kitchen_name": "Meena's Punjabi Dhaba",
+    "location": "Kothrud, Pune",
+    "latitude": 18.5074,
+    "longitude": 73.8077,
+    "cuisine_types": [
+      "Punjabi",
+      "North Indian"
+    ],
+    "food_type": "non-veg",
+    "rating": 4.5,
+    "total_orders": 312,
+    "trust_score": 78,
+    "is_open": false,
+    "delivery_mode": "partner",
+    "price_from": 80,
+    "bio": "Rich Punjabi flavors cooked in pure desi ghee. Dal Makhani is our specialty.",
+    "cooking_since": "2010",
+    "ratings_breakdown": {
+      "taste": 4.7,
+      "hygiene": 4.3,
+      "quantity": 4.5
+    },
+    "menu": [
+      {
+        "id": "item_8",
+        "name": "Chicken Curry Rice",
+        "description": "Homestyle chicken curry with steamed rice",
+        "price": 90,
+        "food_type": "non-veg",
+        "available": true
+      },
+      {
+        "id": "item_9",
+        "name": "Dal Makhani Roti",
+        "description": "Slow cooked dal makhani with 3 rotis",
+        "price": 80,
+        "food_type": "veg",
+        "available": true
+      },
+      {
+        "id": "item_10",
+        "name": "Egg Bhurji Pav",
+        "description": "Spicy scrambled eggs with pav",
+        "price": 70,
+        "food_type": "non-veg",
+        "available": true
+      }
+    ],
+    "plans": [
+      {
+        "id": "plan_6",
+        "name": "Weekly Plan",
+        "meals_per_day": 2,
+        "duration": "weekly",
+        "days": "Mon-Sun",
+        "price": 1400,
+        "original_price": 1800
+      },
+      {
+        "id": "plan_7",
+        "name": "Monthly Plan",
+        "meals_per_day": 2,
+        "duration": "monthly",
+        "days": "Mon-Sun",
+        "price": 4500,
+        "original_price": 6000
+      }
+    ]
+  },
+  {
+    "id": "cook_2e50d284",
+    "user_id": "user_c2a295cb",
+    "name": "radha",
+    "kitchen_name": "radha's Kitchen",
+    "location": "",
+    "cuisine_types": [],
+    "food_type": "veg",
+    "rating": 0,
+    "total_orders": 0,
+    "trust_score": 0,
+    "is_open": false,
+    "delivery_mode": "partner",
+    "price_from": 0,
+    "bio": "",
+    "cooking_since": "",
+    "ratings_breakdown": {
+      "taste": 0,
+      "hygiene": 0,
+      "quantity": 0
+    },
+    "menu": [],
+    "plans": []
+  }
+]
